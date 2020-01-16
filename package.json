@@ -1,0 +1,27 @@
+{
+  "name": "@sovpro/join-num",
+  "version": "1.0.0",
+  "description": "Join an array of single-digit integer numbers",
+  "main": "join-num.js",
+  "scripts": {
+    "test": "istanbul cover test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sovpro/join-num.git"
+  },
+  "keywords": [
+    "join",
+    "number",
+    "array",
+    "digits"
+  ],
+  "author": "sovpro <its.so@outlook.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.5"
+  }
+}
